@@ -18,11 +18,7 @@ h1,h2,p{
    padding: 20px 43px;
    border: 0;
    margin-top: 20px;
-}
-
-.btn-primary a{
-   color: #FFF;
-   text-decoration: none;
+   cursor: pointer;
 }
 
 .section-title{
@@ -209,6 +205,20 @@ header{
 }
 
 /* hot deal section end  */
+
+/* video section  */
+.video-section{
+   width: 1440px;
+   margin: 0 auto;
+   padding: 120px 0 0 0;
+   text-align: center;
+}
+
+.shop-video{
+   margin-top: 30px;
+}
+
+/* video section end  */
 
 /* insta section  */
 .insta-section{
