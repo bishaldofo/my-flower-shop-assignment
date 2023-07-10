@@ -74,7 +74,9 @@ header{
 /* header end  */
 
 /* main start  */
-.main{}
+.main{
+   overflow: hidden;
+}
 
 /* feature section start  */
 .feature-section{
@@ -198,4 +200,18 @@ header{
 
 /* hot deal section end  */
 
+/* insta section  */
+.insta-section{
+   width: 1440px;
+   margin: 0 auto;
+   padding: 120px 0;
+}
+
+.insta-container{
+   display: flex;
+   gap: 25px;
+   padding-top: 50px;
+}
+
+/* insta section end  */
 /* main end  */
