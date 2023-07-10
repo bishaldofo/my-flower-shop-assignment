@@ -252,11 +252,13 @@ header{
 
 .subscription-section input{
    width: 700px;
-   padding: 25px 0;
+   padding: 20px 10px;
    border: 0;
    border-radius: 8px;
    background: #FFF;
    margin-right: 15px;
+   font-size: 20px;
+   color: #000;
 }
 
 /* subscription section end  */
