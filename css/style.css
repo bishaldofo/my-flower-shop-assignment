@@ -5,6 +5,10 @@ body{
    padding: 0;
 }
 
+h1,h2,p{
+   margin: 0;
+}
+
 .btn-primary{
    color: #FFF;
    font-size: 20px;
@@ -16,11 +20,17 @@ body{
    margin-top: 20px;
 }
 
+.btn-primary a{
+   color: #FFF;
+   text-decoration: none;
+}
+
 .section-title{
    color: #272727;
    text-align: center;
    font-size: 40px;
    font-weight: 800;
+   margin-bottom: 20px;
 }
 
 .section-description{
@@ -214,4 +224,62 @@ header{
 }
 
 /* insta section end  */
+/* subscription section  */
+.subscription-section{
+   width: 1440px;
+   background-image: url('../images/Rectangle-9.png');
+   margin: 0 auto;
+   background-position: center center;
+   background-size: cover;
+   padding: 120px 0;
+   background-repeat: no-repeat;
+}
+
+.subscription-section form{
+   text-align: center;
+   margin-top: 30px;
+}
+
+.subscription-section input{
+   width: 700px;
+   padding: 25px 0;
+   border: 0;
+   border-radius: 8px;
+   background: #FFF;
+   margin-right: 15px;
+}
+
+/* subscription section end  */
 /* main end  */
+
+/* footer start  */
+footer{
+   background-color: #111010;
+   padding: 120px 0;
+   margin-top: 120px;
+}
+
+.footer-container{
+
+}
+
+.footer-container .section-title{
+   color: #fff;
+}
+
+.footer-container .section-title span{
+   color: #E55473;
+}
+
+.footer-container .section-description{
+   color: #FEFEFE;
+}
+
+.copy-right{
+   color: rgba(255, 255, 255, 0.40);
+   text-align: center;
+   font-size: 16px;
+   font-weight: 400;
+   margin-top: 30px;
+}
+/* footer end  */
