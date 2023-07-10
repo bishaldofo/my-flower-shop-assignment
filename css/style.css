@@ -168,4 +168,34 @@ header{
 
 /* feature section end  */
 
+/* hot deal section  */
+.hot-deal-section{
+   background-color: #FEF6F8;
+   padding: 120px 0;
+}
+
+.hot-deal-container{
+   width: 1440px;
+   margin: 0 auto;
+   display: flex;
+   align-items: center;
+}
+
+.hot-deal-container .btn-primary{
+   margin-top: 30px;
+}
+
+.hot-deal{
+   width: 60%;
+   text-align: center;
+}
+.hot-deal-img{
+   width: 40%;
+}
+.hot-deal span{
+   color: #E55473;
+}
+
+/* hot deal section end  */
+
 /* main end  */
