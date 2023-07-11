@@ -41,7 +41,6 @@ h1,h2,p{
 
 /* header start */
 header{
-   width: 1440px;
    background-color: #FCEEF1;
 }
 
@@ -82,7 +81,6 @@ header{
 
 /* main start  */
 .main{
-   width: 1440px;
    overflow: hidden;
 }
 
@@ -270,7 +268,6 @@ header{
 footer{
    background-color: #111010;
    padding: 120px 0;
-   width: 1440px;
    margin-top: 120px;
 }
 
